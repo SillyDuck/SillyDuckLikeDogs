@@ -3,6 +3,9 @@
 // @namespace   no
 // @author      SillyDuck
 // @description SillyDuck really likes dog
+
+// @updateURL			https://raw.githubusercontent.com/SillyDuck/SillyDuckLikeDogs/master/dog.js
+// @downloadURL			https://raw.githubusercontent.com/SillyDuck/SillyDuckLikeDogs/master/dog.js
 // @version     0.1
 // @copyright   2015, SillyDuck
 // @grant       GM_getValue
